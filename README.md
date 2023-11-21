@@ -2,6 +2,6 @@
 ## Big Blue Project 4 
 ### Unsupervised Learning Clustering
 #### Participants:
--Marios Gravias
--Tragakis Tilemachos
--Chalepas Konstantinos
+##### -Marios Gravias
+##### -Tragakis Tilemachos
+##### -Chalepas Konstantinos
